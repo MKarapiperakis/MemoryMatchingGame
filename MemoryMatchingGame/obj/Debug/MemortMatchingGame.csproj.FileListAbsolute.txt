@@ -1,0 +1,10 @@
+C:\Users\Manos\Desktop\MemortMatchingGame\bin\Debug\MemortMatchingGame.exe.config
+C:\Users\Manos\Desktop\MemortMatchingGame\bin\Debug\MemortMatchingGame.exe
+C:\Users\Manos\Desktop\MemortMatchingGame\bin\Debug\MemortMatchingGame.pdb
+C:\Users\Manos\Desktop\MemortMatchingGame\obj\Debug\MemortMatchingGame.Properties.Resources.resources
+C:\Users\Manos\Desktop\MemortMatchingGame\obj\Debug\MemortMatchingGame.csproj.GenerateResource.cache
+C:\Users\Manos\Desktop\MemortMatchingGame\obj\Debug\MemortMatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Manos\Desktop\MemortMatchingGame\obj\Debug\MemortMatchingGame.exe
+C:\Users\Manos\Desktop\MemortMatchingGame\obj\Debug\MemortMatchingGame.pdb
+C:\Users\Manos\Desktop\MemortMatchingGame\obj\Debug\MemortMatchingGame.GameRoom.resources
+C:\Users\Manos\Desktop\MemortMatchingGame\obj\Debug\MemortMatchingGame.csprojAssemblyReference.cache
